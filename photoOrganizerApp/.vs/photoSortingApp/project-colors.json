@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "23e13ef0-44b6-48cd-8378-2e17c3bd6662": {
+      "ProjectGuid": "23e13ef0-44b6-48cd-8378-2e17c3bd6662",
+      "DisplayName": "photoSortingApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

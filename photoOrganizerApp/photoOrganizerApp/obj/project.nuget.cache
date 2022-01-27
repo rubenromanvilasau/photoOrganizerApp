@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "2YrKkQYy8CL5xwLRls6pX98DmAgaOFcF46S/+Ytwf97oBWHSzJiw1FKVZ7TzxOSwJWm2hYX/Vxt8QakGeT/Bfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ruben\\Desktop\\photoOrganizerApp\\photoOrganizerApp\\photoOrganizerApp\\photoOrganizerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ruben\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
